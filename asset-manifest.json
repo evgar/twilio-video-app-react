@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.js": "/twilio-video-app-react/static/js/main.39b76d1d.chunk.js",
-    "main.js.map": "/twilio-video-app-react/static/js/main.39b76d1d.chunk.js.map",
+    "main.js": "/twilio-video-app-react/static/js/main.9083b3ef.chunk.js",
+    "main.js.map": "/twilio-video-app-react/static/js/main.9083b3ef.chunk.js.map",
     "runtime-main.js": "/twilio-video-app-react/static/js/runtime-main.2ff897fd.js",
     "runtime-main.js.map": "/twilio-video-app-react/static/js/runtime-main.2ff897fd.js.map",
-    "static/js/2.fef400ac.chunk.js": "/twilio-video-app-react/static/js/2.fef400ac.chunk.js",
-    "static/js/2.fef400ac.chunk.js.map": "/twilio-video-app-react/static/js/2.fef400ac.chunk.js.map",
+    "static/js/2.d7140bcf.chunk.js": "/twilio-video-app-react/static/js/2.d7140bcf.chunk.js",
+    "static/js/2.d7140bcf.chunk.js.map": "/twilio-video-app-react/static/js/2.d7140bcf.chunk.js.map",
     "index.html": "/twilio-video-app-react/index.html",
-    "precache-manifest.5ddd661864318c6d01192f22837d87d8.js": "/twilio-video-app-react/precache-manifest.5ddd661864318c6d01192f22837d87d8.js",
+    "precache-manifest.0f1efd63465a9e56e3f6cc2343d62513.js": "/twilio-video-app-react/precache-manifest.0f1efd63465a9e56e3f6cc2343d62513.js",
     "service-worker.js": "/twilio-video-app-react/service-worker.js",
-    "static/js/2.fef400ac.chunk.js.LICENSE.txt": "/twilio-video-app-react/static/js/2.fef400ac.chunk.js.LICENSE.txt",
+    "static/js/2.d7140bcf.chunk.js.LICENSE.txt": "/twilio-video-app-react/static/js/2.d7140bcf.chunk.js.LICENSE.txt",
     "static/media/google-logo.1b8c51ce.svg": "/twilio-video-app-react/static/media/google-logo.1b8c51ce.svg",
     "static/media/twilio-logo.0e04ea74.svg": "/twilio-video-app-react/static/media/twilio-logo.0e04ea74.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.2ff897fd.js",
-    "static/js/2.fef400ac.chunk.js",
-    "static/js/main.39b76d1d.chunk.js"
+    "static/js/2.d7140bcf.chunk.js",
+    "static/js/main.9083b3ef.chunk.js"
   ]
 }
